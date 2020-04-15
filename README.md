@@ -40,6 +40,6 @@ Blog : [BlogDuProgramming](https://jkjan.github.io)
 
 GitHub : [표시할 이름](https://github.com/개인 아이디) 
 
-'&nbsp;' 이것은 공백이고, 한 칸 띄울 때 꼭 넣어야 함!!
+'&nbsp;' 이것은 공백이고, 여러 칸 띄울 때 꼭 넣어야 함!! (엔터 많이 해도 소용 없음)
 
 줄바꿈 할 때 엔터 두 번 누르기!
