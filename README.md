@@ -3,7 +3,7 @@
 ### 팀원 :
 
 * 컴퓨터학과 진교준
-* 본인의 학과 이름
+* 컴퓨터학과 최현민
 * 
 
 &nbsp;
@@ -42,6 +42,30 @@ Blog : [BlogDuProgramming](https://jkjan.github.io)
 저는 부회장을 맡은 진교준입니다. 같이 열심히 해봐요~!!
 
 &nbsp;
+
+<img src='https://avatars2.githubusercontent.com/u/63601183?s=460&u=0fa3cdaebb5c95761525d55c827dc2a6a63487bf&v=4' width='20%'>
+
+&nbsp;
+
+GitHub : [@choihm9903](https://github.com/choihm9903)
+
+Blog : [Hyunmin](https://hyunmin.github.io)
+
+&nbsp;
+
+**이름** : 최현민
+
+**나이** : 22
+
+**좋아하는 것** : 축구, 농구, 힙합, 컴퓨터
+
+**싫어하는 것** : 국어, 영어
+
+**인사말/각오** : 안녕하세요? 컴퓨터과학과 19학번 최현민입니다.
+
+1년동안 멋쟁이 사자처럼에서 열심히 활동하겠습니다. ^^
+
+감사합니다.
 
 &nbsp;
 
