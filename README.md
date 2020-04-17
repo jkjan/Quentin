@@ -69,8 +69,7 @@ Blog : [Hyunmin](https://hyunmin.github.io)
 
 &nbsp;
 
-<ing 
-src = 'https://avatars3.githubusercontent.com/u/59790540?s=460&v=4' width='20%'>
+<img src = 'https://avatars3.githubusercontent.com/u/59790540?s=460&v=4' width='20%'>
 
 &nbsp;
 
