@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang= "ko">
+<head>
+	<title>최현민의 HTML</title>
+	<meta charset="utf-8">
+	<meta name= "author" content="choihyunmin">
+	<meta name="description" content="MyHTML">
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<style>
+		h3 {
+			color: gold;
+		}
+	</style>
+</head>
+
+<body>
+<div class="MyProfile" align="center">
+	<h1 align="left">최현민의 자기소개</h1>
+	<div class="ProfilePicure"  align="center">
+		<h3>프로필 사진</h3>
+		<img src="https://avatars2.githubusercontent.com/u/63601183?s=460&u=0fa3cdaebb5c95761525d55c827dc2a6a63487bf&v=4" width="200" height="200">
+	</div>
+	<br>
+	<div class="MyInfo" align="center">
+		<h3>내 정보</h3>
+		<span><b>컴퓨터과학과<b/></span>
+		<span><b>201911019<b/></span>
+		<span><b>최현민<b/></span>
+	</div>
+	<br><br>
+	<div class="introduce">
+		<h3>간략한 자기소개</h3>
+		<i>안녕하세요 저는 상명대 컴퓨터과학과 2학년 최현민입니다.</i>
+		<br>
+		<i>1년동안 멋사에서 열심히 활동하겠습니다!!</i>
+		<br>
+		<i>감사합니다. ^^</i>
+	</div>
+	<br><br>
+	<div class="keyword">
+		<h3>자신의 표현하는 키워드 5가지</h3>
+		<ul class="five"> <!--Unordered List-->
+			<li>사랑</li>
+			<li>평화</li>
+			<li>행복</li>
+			<li>희망</li>
+			<li>기쁨</li>
+		</ul>
+	</div>
+	<br><br>
+	<div class="value">
+		<h3>자신의 가치 순위</h3>
+		<ol class="five">
+			<li>건강</li>
+			<li>사랑</li>
+			<li>효도</li>
+			<li>돈</li>
+			<li>명예</li>
+		</ol>
+	</div>
+	<br><br>
+	<div class="favorite">
+		<h3>내가 좋아하는 것</h3>
+		<table border="1">
+			<thead>
+				<tr>
+					<th>음식</th>
+					<th>음악</th>
+					<th>운동</th>
+					<th>영화</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>치킨</td>
+					<td>힙합</td>
+					<td>축구</td>
+					<td>어바웃타임</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<br><br>
+	<div class="MyLink">
+		<a href="https://github.com/">
+			<img class=link src="github.png" width="50" height="50">
+		</a>
+		<a href="https://youtube.com/">
+			<img class=link src="youtube.png" width="50" height="50">
+		</a>
+		<a href="https://facebook.com/">
+			<img class=link src="facebook.png" width="50" height="50">
+		</a>		
+	</div>
+
+</div>
+
+<div class="inputService" align="center">
+	<h1 align="left">사용자 입력 페이지</h1>
+	<div class="Myinput">
+		<div class="textInput">
+			핸드폰 번호를 입력하세요
+			<input type="text">			
+		</div>
+		<br><br>
+		<div class="textAreaInput">
+			지원동기를 입력하세요<br>
+			<textarea></textarea>		
+		</div>
+		<br><br>
+		<div class="checkbox">
+			사용 가능한 프로그래밍 언어를 입력하세요.<br>
+			C<input type="checkbox">
+			C++<input type="checkbox">
+			JAVA<input type="checkbox">
+			python<input type="checkbox">
+		</div>
+		<br><br>
+		<div class="select">
+			생일달을 입력하세요
+			<select>
+				<option>1월</option>
+				<option>2월</option>
+				<option>3월</option>
+				<option>4월</option>
+			</select>
+		</div>
+		<br><br>
+		<BUTTON>제출</BUTTON>
+		<br><br>
+	</div>
+
+	<form class="loginForm">
+		<h4>로그인</h4>
+		<input type="email" placeholder="email"><br>
+		<input type="password" placeholder="password"><br>
+		<BUTTON>로그인</BUTTON>
+		<BUTTON>회원가입</BUTTON>
+	</form>
+	<br><br>
+</div>
+
+<div class="Avengers" align="center">
+	<h3>타노스 건틀렛 핑거스냅</h3>
+	<img id = thanos src="thanos.png" width="300" height="300">
+	<br>
+	<img id = ironman src="ironman.png" width="200" height="200">
+	<img id = hulk src="hulk.png" width="200" height="200">
+	<img id = groot src="http://pngimg.com/uploads/groot/groot_PNG50.png" width="200" height="200">
+</div>
+<script 
+src="https://code.jquery.com/jquery-3.5.0.js"integrity="sha256-r/AaFHrszJtwpe+tHyNi/XCfMxYpbsRg2Uqn0x3s2zc=" 
+crossorigin="anonymous">
+</script>
+<script src="./index.js"></script>  
+
+</body>
+
+</html>
