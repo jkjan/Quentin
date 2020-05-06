@@ -1,0 +1,34 @@
+.MyProfile {
+	background-color: #cccccc
+}
+
+.introduce {
+	background-color: pink;
+	margin: 50px;  /* 외부여백 */
+}
+
+.five {
+	width:50px;  
+}
+
+.link {
+	padding: 50px;  /* 내부여백 */
+}
+
+.inputService {
+	background-image: url("lion.png");
+}
+
+.MyInput {
+	width: 500px;
+	background-color: white; 
+	opacity: .9
+}
+
+.loginForm {
+	background-color: #cccccc
+	width: 300px;
+	padding: 10px;
+	opacity: .9
+}
+
